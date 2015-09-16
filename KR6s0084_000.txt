@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 出三藏記集
+#+DATE: 2015-08-31 00:08:46.712150
+#+PROPERTY: JUAN 0
