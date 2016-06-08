@@ -1,23 +1,20 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:08:45.880596
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:37
 #+TITLE: 出三藏記集
 #+PROPERTY: CBETA_ID T55n2145
 #+PROPERTY: ID KR6s0084
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 55, No. 2145
 #+PROPERTY: VOL 55
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6s0084_T_002-0005b> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 
-銓名錄出三藏記集錄上卷第二¶
+出三藏記集錄上卷第二¶
 ¶
 釋僧祐撰¶
 
-序
 法寶所被遠矣。夫神理本寂。感而後通。緣應¶
 中夏始自漢代。昔劉向校書已見佛經。故知¶
 成帝之前法典久至矣。逮孝明感夢張騫遠¶
@@ -46,17 +43,12 @@
 于下卷。將使傳法之緣有孚。聞道之心無惑。¶
 敬貽來世庶在不墜焉。¶
 
-卷二
   
   * 新集撰出經律論錄第一¶
   * 新集條解異出經錄第二¶
   * 新集表序四部律錄第三¶
 
-1新集經論錄
-:PROPERTIES:
-:head: 新集經論錄第一
-:END:
-¶
+*** 新集經論錄第一¶
 
   
   * 四十二章經一卷(舊錄云孝明皇帝四十二章安法師所撰錄闕此經)¶
@@ -602,11 +594,7 @@
   * 須達長者經一卷(建武二年出)¶
 都合四百五十部。凡一千八百六十七卷。¶
 
-2新集異出經錄
-:PROPERTIES:
-:head: 新集異出經錄第二
-:END:
-¶
+*** 新集異出經錄第二¶
 
 異出經者。謂胡本同而漢文異也。梵書復¶
 隱宣譯多變。出經之士才趣各殊。辭有質文¶

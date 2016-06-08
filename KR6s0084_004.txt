@@ -1,27 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:08:45.947799
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:37
 #+TITLE: 出三藏記集
 #+PROPERTY: CBETA_ID T55n2145
 #+PROPERTY: ID KR6s0084
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 55, No. 2145
 #+PROPERTY: VOL 55
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6s0084_T_004-0021b> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
 ¶
-
- 
-卷四出三藏記集錄下卷第四¶
+出三藏記集錄下卷第四¶
 ¶
 釋僧祐撰¶
 
-1新集續撰失譯雜經錄
-:PROPERTIES:
-:head: 新集續撰失譯雜經錄第一
-:END:
-¶
+*** 新集續撰失譯雜經錄第一¶
 
 祐總集眾經遍閱群錄。新撰失譯猶多卷部。¶
 聲實紛糅尤難銓品。或一本數名。或一名數¶
